@@ -25,6 +25,7 @@ Contributions welcome — see [Contributing](#contributing). Adding your own plu
   - [AI & agents](#ai--agents)
   - [Domain-specific](#domain-specific)
   - [Utility & ops](#utility--ops)
+- [Themes & starters](#themes--starters)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -44,6 +45,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [emdash-smtp](https://github.com/masonjames/emdash-smtp) — Full-parity SMTP + transactional email; the widely-used one. [`npm`](https://www.npmjs.com/package/emdash-smtp)
 - [emdash-resend](https://github.com/bison-digital/emdash-resend) — Resend provider. [`npm`](https://www.npmjs.com/package/emdash-resend)
+- [emdash-plugin-resend](https://github.com/maikunari/emdash-plugin-resend) — Resend provider (a separate implementation). [`npm`](https://www.npmjs.com/package/emdash-plugin-resend)
 - [emdash-aws-ses](https://github.com/ab6162/emdash-aws-ses) — Amazon SES transport. [`npm`](https://www.npmjs.com/package/emdash-aws-ses)
 - [emdash-plugin-postmark](https://github.com/drudge/emdash-plugin-postmark) — Postmark with delivery log, webhook tracking, sender pickers. [`npm`](https://www.npmjs.com/package/emdash-plugin-postmark)
 - [emdash-plugin-anymail](https://github.com/nexed-tech/emdash-plugin-anymail) — One plugin, any HTTP provider (Resend, Maileroo, Mailgun, Postmark); no SMTP, just fetch. [`npm`](https://www.npmjs.com/package/emdash-plugin-anymail)
@@ -79,6 +81,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [aexeo-emdash](https://github.com/schiste/Aexeo/tree/main/packages/aexeo-emdash) — Aexeo SEO/GEO content evaluator (WASM, Cloudflare). [`npm`](https://www.npmjs.com/package/@aeptus/aexeo-emdash)
 - [emdash-taki](https://github.com/bnomei/emdash-taki) — Waterfall head renderer + dynamic head/metadata helpers (OpenGraph, JSON-LD, Turnstile). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-taki)
+- [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) — Comprehensive SEO via the `page:metadata` hook: meta tags, Open Graph, Twitter Cards, canonical URLs, JSON-LD schema graph, hreflang, breadcrumbs, llms.txt, IndexNow, and a fuzzy-redirects admin tool.
 - [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) — Lets AI agents assign taxonomy terms and set SEO metadata via `content:afterSave`. [`npm`](https://www.npmjs.com/package/emdash-auto-meta)
 
 ### Content blocks & field widgets
@@ -149,6 +152,10 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [@plugdash/readtime](https://github.com/plugdash/plugdash) — Estimated reading time + word count. [`npm`](https://www.npmjs.com/package/@plugdash/readtime)
 - [404-viewer](https://github.com/devondragon/emdash-plugins) — Admin viewer for the built-in 404 log table. [`npm`](https://www.npmjs.com/package/@devondragon/emdash-plugin-404-viewer)
 - [emdash-plugin-slack](https://www.npmjs.com/package/emdash-plugin-slack) — Slack notifications when content is published. [`npm`](https://www.npmjs.com/package/emdash-plugin-slack)
+
+## Themes & starters
+
+- [Astroplate (emdash branch)](https://github.com/zeon-studio/astroplate/tree/emdash) — Astro + TailwindCSS + TypeScript starter template powered by EmDash, by Zeon Studio.
 
 ## Resources
 
