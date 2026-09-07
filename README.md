@@ -66,6 +66,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [@dullaz/commerce](https://github.com/Dullaz/emdash-commerce) — Products, inventory, orders, checkout, pluggable payment providers. [`npm`](https://www.npmjs.com/package/@dullaz/commerce)
 - [emdash-mika](https://github.com/bnomei/emdash-mika) — Agent-ready commerce primitives for content-led storefronts. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-mika)
 - [Tender](https://github.com/foreztgump/tender) — Payments layer with Stripe & Square providers, webhooks, refunds, subscriptions (`@tenderpay/*`). [`npm`](https://www.npmjs.com/package/@tenderpay/core)
+- [DinkusKit](https://github.com/dinkuskit) — A kit of commerce plugins (commerce, bundles, coupons, inventory, Stripe-first payments) plus a section-blocks plugin and Astro store/services/marketing templates. Under construction; packages will ship as `@dinkuskit/*`.
 
 ### Events
 
