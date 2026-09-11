@@ -55,6 +55,8 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [larksuite-email](https://github.com/MAV3Ndev/emdash-larksuite-email) — LarkSuite Mail transport. [`npm`](https://www.npmjs.com/package/@mav3ndev/emdash-larksuite-email)
 - [jetemail](https://github.com/jetemail/jetemail-emdash) — JetEmail provider. [`npm`](https://www.npmjs.com/package/@jetemail/emdash)
 - [@dullaz/email](https://github.com/Dullaz/emdash-email) — Email transport with a pluggable provider abstraction (Cloudflare first). [`npm`](https://www.npmjs.com/package/@dullaz/email)
+- [emdash-plugin-cloudflare-email](https://www.emdashbits.com/plugins/emdash-plugin-cloudflare-email) — EmDash CMS email-provider plugin that delivers via the native Cloudflare Email Sending Workers binding. No API token required.
+- [emdash-inbox](https://www.emdashbits.com/plugins/emdash-inbox) — Inbox-by-Google-style mailbox UI for EmDash CMS, with Cloudflare Email Service transport built in.
 
 ### Auth
 
@@ -67,6 +69,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-mika](https://github.com/bnomei/emdash-mika) — Agent-ready commerce primitives for content-led storefronts. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-mika)
 - [Tender](https://github.com/foreztgump/tender) — Payments layer with Stripe & Square providers, webhooks, refunds, subscriptions (`@tenderpay/*`). [`npm`](https://www.npmjs.com/package/@tenderpay/core)
 - [DinkusKit](https://github.com/dinkuskit) — A kit of commerce plugins (commerce, bundles, coupons, inventory, Stripe-first payments) plus a section-blocks plugin and Astro store/services/marketing templates. Under construction; packages will ship as `@dinkuskit/*`.
+- [emdash-restrict-with-stripe](https://www.emdashbits.com/plugins/emdash-restrict-with-stripe) — Restrict content and sell access with Stripe. The first membership plugin for EmDash CMS.
 
 ### Events
 
@@ -84,6 +87,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-taki](https://github.com/bnomei/emdash-taki) — Waterfall head renderer + dynamic head/metadata helpers (OpenGraph, JSON-LD, Turnstile). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-taki)
 - [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) — Comprehensive SEO via the `page:metadata` hook: meta tags, Open Graph, Twitter Cards, canonical URLs, JSON-LD schema graph, hreflang, breadcrumbs, llms.txt, IndexNow, and a fuzzy-redirects admin tool.
 - [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) — Lets AI agents assign taxonomy terms and set SEO metadata via `content:afterSave`. [`npm`](https://www.npmjs.com/package/emdash-auto-meta)
+- [emdash-plugin-seo-analyzer](https://www.emdashbits.com/plugins/emdash-plugin-seo-analyzer) — SEO analysis and optimization plugin for EmDash CMS — free Yoast alternative with AI-powered suggestions
 
 ### Content blocks & field widgets
 
@@ -99,6 +103,8 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-blocks](https://github.com/bnomei/emdash-blocks) — JSON block-list field widget with normalized block props and visibility state. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-blocks)
 - [emdash-fields](https://github.com/bnomei/emdash-fields) — Structured JSON fields (object, structure, link, choices editors). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-fields)
 - [emdash-bento](https://github.com/bnomei/emdash-bento) — Bento grid field widget for JSON fields. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-bento)
+- [emdash-plugin-social-embed](https://www.emdashbits.com/plugins/emdash-plugin-social-embed) — EmDash CMS plugin for embedding social media posts by pasting a URL. Server-side oEmbed for 10 platforms.
+- [emdash-plugin-gallery-images](https://www.emdashbits.com/plugins/emdash-plugin-gallery-images) — EmDash CMS plugin for multi-image photo galleries with media library picker.
 
 ### Content import & sync
 
@@ -114,6 +120,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [@plugdash/sharepost](https://github.com/plugdash/plugdash) — Share buttons (Twitter/X, LinkedIn, WhatsApp, Bluesky, email) with no heavy JS. [`npm`](https://www.npmjs.com/package/@plugdash/sharepost)
 - [@plugdash/engage](https://github.com/plugdash/plugdash) — Heart + share + copy engagement bundle. [`npm`](https://www.npmjs.com/package/@plugdash/engage)
 - [emdash-rating](https://www.npmjs.com/package/emdash-rating) — 1–5 star ratings with live averages and an admin dashboard. [`npm`](https://www.npmjs.com/package/emdash-rating)
+- [emdash-to-buffer-plugin](https://www.emdashbits.com/plugins/emdash-to-buffer-plugin) — Send EmDash blog posts to Buffer
 
 ### Forms & contact
 
@@ -134,6 +141,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [InjectAI](https://github.com/muzammildafedar/emdash-injectai) — AI chatbot powered by your own content — RAG chat, file uploads, quiz/module generation. [`npm`](https://www.npmjs.com/package/@injectailabs/emdash-injectai)
 - [emdash-akari](https://github.com/bnomei/emdash-akari) — Agent-focused discovery CLI — resolve content targets and query nested JSON beyond MCP search. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-akari)
+- [emdash-claude-plugin](https://www.emdashbits.com/plugins/emdash-claude-plugin) — Claude Code plugin for EmDash CMS — skills and investigation agents for building Astro + Cloudflare sites
 
 ### Domain-specific
 
@@ -142,11 +150,15 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [bible](https://github.com/midvash/bible-emdash-plugin) — Auto-detect Bible references and render verse tooltips on hover. [`npm`](https://www.npmjs.com/package/@midvash/emdash-plugin-bible)
 - [conference-badge-generator](https://github.com/kgittyup/conference-badge-generator) — Public `/badge` page where visitors build a shareable 1080×1080 conference badge with in-browser AI. [`npm`](https://www.npmjs.com/package/conference-badge-generator)
 - [star-lite-docs](https://github.com/gruntlord5/star-lite-docs) — Starlight-style documentation theme (Astro integration + plugin in one). [`npm`](https://www.npmjs.com/package/star-lite-docs)
+- [emdashlearn](https://www.emdashbits.com/plugins/emdashlearn) — Open source LMS plugin for emdash CMS — courses, progress, and learning on the edge
+- [emdash-lms](https://www.emdashbits.com/plugins/emdash-lms) — EmDash LMS — Subscriptions & Memberships plugin for EmDash CMS
 
 ### Utility & ops
 
 - [emdash-actions](https://github.com/bnomei/emdash-actions) — Native action surface for provider plugins. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-actions)
 - [action-maintenance](https://github.com/bnomei/emdash-action-maintenance) — Maintenance-mode action provider. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-action-maintenance)
+- [emdash-docker](https://www.emdashbits.com/plugins/emdash-docker) — Run EmDash CMS locally with Docker — 3 commands to spin up a full blog. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-docker)
+- [wp-emdash](https://www.emdashbits.com/plugins/wp-emdash) — Plugins to help you transition from WordPress to EmDash. [`npm`](https://www.npmjs.com/package/@emdash-cms/wp-emdash)
 - [@plugdash/autobuild](https://github.com/plugdash/plugdash) — Fires a Cloudflare Pages / Netlify / Vercel build hook on every publish. [`npm`](https://www.npmjs.com/package/@plugdash/autobuild)
 - [@plugdash/shortlink](https://github.com/plugdash/plugdash) — Short URLs created on publish. [`npm`](https://www.npmjs.com/package/@plugdash/shortlink)
 - [@plugdash/tocgen](https://github.com/plugdash/plugdash) — Auto-generated table of contents. [`npm`](https://www.npmjs.com/package/@plugdash/tocgen)
