@@ -169,6 +169,8 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 ## Themes & starters
 
 - [Astroplate (emdash branch)](https://github.com/zeon-studio/astroplate/tree/emdash) — Astro + TailwindCSS + TypeScript starter template powered by EmDash, by Zeon Studio.
+- [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) — Classic admin theme for EmDash CMS.
+- [relink](https://github.com/giffeler/relink) — URL shortener and link management for EmDash CMS.
 
 ## Resources
 
