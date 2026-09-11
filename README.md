@@ -178,6 +178,10 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
 
+## Tools & IDE extensions
+
+- [Image Storage Explorer](https://marketplace.visualstudio.com/items?itemName=Azydeco.image-storage-explorer) — Browse Cloudflare R2, Emdash Media Library, AWS S3, Azure, Google Cloud, and local files directly in VS Code. Copy formatted HTML, Markdown, or framework-specific image tags with zero context switching.
+
 ## Contributing
 
 Found a plugin that's missing, or shipped one yourself? [Open a pull request](https://github.com/theweekendprojects/awesome-emdash/pulls) — see [CONTRIBUTING.md](CONTRIBUTING.md) for the one-line format and where it goes. Corrections and de-duplications are just as welcome.
