@@ -70,6 +70,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Tender](https://github.com/foreztgump/tender) — Payments layer with Stripe & Square providers, webhooks, refunds, subscriptions (`@tenderpay/*`). [`npm`](https://www.npmjs.com/package/@tenderpay/core)
 - [DinkusKit](https://github.com/dinkuskit) — A kit of commerce plugins (commerce, bundles, coupons, inventory, Stripe-first payments) plus a section-blocks plugin and Astro store/services/marketing templates. Under construction; packages will ship as `@dinkuskit/*`.
 - [emdash-restrict-with-stripe](https://www.emdashbits.com/plugins/emdash-restrict-with-stripe) — Restrict content and sell access with Stripe. The first membership plugin for EmDash CMS.
+- [otta.sh](https://github.com/UrumiAI/otta.sh) — Open-source commerce layer for EmDash — WooCommerce-equivalent with a Node/Hono + Postgres commerce service for catalog, inventory, cart, checkout, orders, customers, payments, tax, shipping, and discounts.
 
 ### Events
 
