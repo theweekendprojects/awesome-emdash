@@ -179,6 +179,19 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
 
+## Live Sites Built on EmDash
+
+> Community sites running EmDash in production. If you have a site you'd like to add, [open a pull request](https://github.com/theweekendprojects/awesome-emdash/pulls).
+
+- [Mason James](https://masonjames.com) — AI implementation notes, writing, and project showcase. Built on a forked EmDash stack with PR #1366 contributions.
+- [Chicago Gang History](https://chicagoganghistory.com) — Comprehensive archive of 20th century Chicago gang history with 134 gang histories, 89 neighborhoods, and 1,869 mapped territories.
+- [ProposalMint](https://proposalmint.com) — AI grant-intelligence workspace for nonprofit readiness, opportunity matching, and evidence-backed proposals (featured on Mason James site).
+- [Centerpiece by The Chefette SRQ](https://masonjames.com/projects/chefette-srq/) — Role-aware operations portal for premium personal-chef menus, receipts, visits, and client care.
+- [Avenue941 Attendance App](https://masonjames.com/projects/avenue941/) — Multi-site ministry operations app for attendance, volunteer compliance, reporting, prayer requests, and enrollment data.
+- [emdash-better-auth demo](https://theweekendprojects.com) — Reference implementation of email/password + social auth via Better Auth.
+- [star-lite-docs](https://star-lite.gruntmods.com) — Starlight-style documentation theme for EmDash (by @gruntlord5).
+- [EmdashBits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
+
 ## Tools & IDE extensions
 
 - [Image Storage Explorer](https://marketplace.visualstudio.com/items?itemName=Azydeco.image-storage-explorer) — Browse Cloudflare R2, Emdash Media Library, AWS S3, Azure, Google Cloud, and local files directly in VS Code. Copy formatted HTML, Markdown, or framework-specific image tags with zero context switching.
