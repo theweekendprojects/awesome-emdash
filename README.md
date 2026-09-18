@@ -140,6 +140,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ### AI & agents
 
+- [emdash-ai-search](https://github.com/theweekendprojects/emdash-ai-search) — AI search + chat for EmDash CMS powered by Cloudflare AI Search — grounded chat answers with citations,Cmd/Ctrl+K search, seconds-to-index. [`npm`](https://www.npmjs.com/package/emdash-ai-search)
 - [InjectAI](https://github.com/muzammildafedar/emdash-injectai) — AI chatbot powered by your own content — RAG chat, file uploads, quiz/module generation. [`npm`](https://www.npmjs.com/package/@injectailabs/emdash-injectai)
 - [emdash-akari](https://github.com/bnomei/emdash-akari) — Agent-focused discovery CLI — resolve content targets and query nested JSON beyond MCP search. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-akari)
 - [emdash-claude-plugin](https://www.emdashbits.com/plugins/emdash-claude-plugin) — Claude Code plugin for EmDash CMS — skills and investigation agents for building Astro + Cloudflare sites
@@ -177,6 +178,9 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [EmDash docs](https://docs.emdashcms.com) — Official documentation.
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
+- [EmDash Bits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
+- [EmDash Directory](https://emdash.directory) — Plugin directory and search.
+- [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
 
 ## Live Sites Built on EmDash
