@@ -196,6 +196,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-better-auth demo](https://theweekendprojects.com) — Reference implementation of email/password + social auth via Better Auth.
 - [star-lite-docs](https://star-lite.gruntmods.com) — Starlight-style documentation theme for EmDash (by @gruntlord5).
 - [EmdashBits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
+- [DashCommerce demo](https://dashcommerce.dev) — Full WooCommerce-equivalent commerce demo site built on EmDash.
 
 ## Tools & IDE extensions
 
