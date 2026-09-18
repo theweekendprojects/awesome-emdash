@@ -157,9 +157,13 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ### Utility & ops
 
-- [emdash-actions](https://github.com/bnomei/emdash-actions) — Native action surface for provider plugins. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-actions)
-- [action-maintenance](https://github.com/bnomei/emdash-action-maintenance) — Maintenance-mode action provider. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-action-maintenance)
-- [emdash-docker](https://www.emdashbits.com/plugins/emdash-docker) — Run EmDash CMS locally with Docker — 3 commands to spin up a full blog. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-docker)
+- [emdash-docker](https://github.com/mariandenys/emdash-docker) — Run EmDash CMS locally with Docker — 3 commands to spin up a full blog. [`npm`](https://www.npmjs.com/package/emdash-docker)
+- [emdash-inbox](https://github.com/proverbiallemon/emdash-inbox) — Inbox-by-Google-style mailbox UI for EmDash CMS, with Cloudflare Email Service transport built in. [`npm`](https://www.npmjs.com/package/emdash-inbox)
+- [emdash-fields](https://github.com/bnomei/emdash-fields) — Structured JSON fields (object, structure, link, choices editors). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-fields)
+- [emdash-plugin-analytics](https://github.com/MosierData/emdash-plugin-analytics) — Google Tag Manager, GA4, and ad platform tracking — one-click setup with call tracking. [`npm`](https://www.npmjs.com/package/emdash-plugin-analytics)
+- [emdashlearn](https://github.com/emdash-learn/emdashlearn) — Open source LMS plugin for EmDash — courses, progress, and learning on the edge. [`npm`](https://www.npmjs.com/package/emdashlearn)
+- [emdash-lms](https://github.com/tohaitrieu/emdash-lms) — Learning Management System — courses, memberships, quizzes, certificates with Stripe and Sepay payments. [`npm`](https://www.npmjs.com/package/emdash-lms)
+- [emdash-forms-builder](https://github.com/hassantafreshi/emdash-forms-builder) — Full-featured form builder with drag-and-drop, multi-step forms, submissions, and support portal. [`npm`](https://www.npmjs.com/package/@emdash-cms/plugin-forms-builder)
 - [wp-emdash](https://www.emdashbits.com/plugins/wp-emdash) — Plugins to help you transition from WordPress to EmDash. [`npm`](https://www.npmjs.com/package/@emdash-cms/wp-emdash)
 - [@plugdash/autobuild](https://github.com/plugdash/plugdash) — Fires a Cloudflare Pages / Netlify / Vercel build hook on every publish. [`npm`](https://www.npmjs.com/package/@plugdash/autobuild)
 - [@plugdash/shortlink](https://github.com/plugdash/plugdash) — Short URLs created on publish. [`npm`](https://www.npmjs.com/package/@plugdash/shortlink)
