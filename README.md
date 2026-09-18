@@ -178,6 +178,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [EmDash docs](https://docs.emdashcms.com) — Official documentation.
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
+- [EmDash CMS](https://emdashcms.org) — Official site with plugin directory and resources.
 - [EmDash Bits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
 - [EmDash Directory](https://emdash.directory) — Plugin directory and search.
 - [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
