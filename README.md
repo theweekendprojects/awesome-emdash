@@ -177,6 +177,8 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Astroplate (emdash branch)](https://github.com/zeon-studio/astroplate/tree/emdash) — Astro + TailwindCSS + TypeScript starter template powered by EmDash, by Zeon Studio.
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) — Classic admin theme for EmDash CMS.
 - [relink](https://github.com/giffeler/relink) — URL shortener and link management for EmDash CMS.
+- [Bidview EmDash Sites](https://github.com/Bidviewllc/bidview-emdash-sites) — Monorepo for EmDash-powered sites: Robert Shearing Clinic, Audiologist Directory, Audiology and Hearing Centers, Campbell Hearing Solutions, Lakeside Lactation, MAICO Audio, Rose Hearing Healthcare Centers, Chicago Marketing Agency.
+- [emdash_property_web_builder](https://github.com/RealEstateWebTools/emdash_property_web_builder) — Real estate website with EmDash CMS and Property Web Builder backend, deployed on Cloudflare Workers.
 
 ## Resources
 
