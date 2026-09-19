@@ -104,8 +104,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-blocks](https://github.com/bnomei/emdash-blocks) — JSON block-list field widget with normalized block props and visibility state. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-blocks)
 - [emdash-fields](https://github.com/bnomei/emdash-fields) — Structured JSON fields (object, structure, link, choices editors). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-fields)
 - [emdash-bento](https://github.com/bnomei/emdash-bento) — Bento grid field widget for JSON fields. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-bento)
-- [emdash-plugin-social-embed](https://www.emdashbits.com/plugins/emdash-plugin-social-embed) — EmDash CMS plugin for embedding social media posts by pasting a URL. Server-side oEmbed for 10 platforms.
-- [emdash-plugin-gallery-images](https://www.emdashbits.com/plugins/emdash-plugin-gallery-images) — EmDash CMS plugin for multi-image photo galleries with media library picker.
+
 
 ### Content import & sync
 
@@ -194,6 +193,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 > Community sites running EmDash in production. If you have a site you'd like to add, [open a pull request](https://github.com/theweekendprojects/awesome-emdash/pulls).
 
+- [Every Bit Texas](https://everybittexas.com) — Community-driven history site with photo submissions, social media embeds, and AI-powered SEO. Built by Marcus Shaw with multiple custom EmDash plugins.
 - [Mason James](https://masonjames.com) — AI implementation notes, writing, and project showcase. Built on a forked EmDash stack with PR #1366 contributions.
 - [Chicago Gang History](https://chicagoganghistory.com) — Comprehensive archive of 20th century Chicago gang history with 134 gang histories, 89 neighborhoods, and 1,869 mapped territories.
 - [ProposalMint](https://proposalmint.com) — AI grant-intelligence workspace for nonprofit readiness, opportunity matching, and evidence-backed proposals (featured on Mason James site).
@@ -203,6 +203,18 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [star-lite-docs](https://star-lite.gruntmods.com) — Starlight-style documentation theme for EmDash (by @gruntlord5).
 - [EmdashBits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
 - [DashCommerce demo](https://dashcommerce.dev) — Full WooCommerce-equivalent commerce demo site built on EmDash.
+
+## Plugins by Every Bit Texas
+
+> Plugins designed and/or built by Marcus Shaw for Every Bit Texas. All use `ebt-` or `emdash-` prefixes.
+
+- [emdash-plugin-store](https://github.com/marcusbellamyshaw-cell/emdash-plugin-store) — Printful print-on-demand storefront with Stripe checkout. [`npm`](https://www.npmjs.com/package/emdash-plugin-store)
+- [emdash-plugin-engagement](https://github.com/marcusbellamyshaw-cell/emdash-plugin-engagement) — Post-publish email digests + comment-activity gamification (points, badges, leaderboard). [`npm`](https://www.npmjs.com/package/emdash-plugin-engagement)
+- [emdash-plugin-shoebox](https://github.com/marcusbellamyshaw-cell/emdash-plugin-shoebox) — Community photo and story submissions with admin review queue. [`npm`](https://www.npmjs.com/package/ebt-plugin-shoebox)
+- [emdash-plugin-gallery-images](https://github.com/marcusbellamyshaw-cell/emdash-plugin-gallery-images) — Multi-image photo gallery field with media library picker. [`npm`](https://www.npmjs.com/package/ebt-plugin-gallery-images)
+- [emdash-plugin-brevo](https://github.com/marcusbellamyshaw-cell/emdash-plugin-brevo) — Brevo transactional email delivery for EmDash CMS. [`npm`](https://www.npmjs.com/package/emdash-plugin-brevo)
+- [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) — AI-generated SEO metadata, image alt text, and taxonomy tagging via MCP server. [`npm`](https://www.npmjs.com/package/emdash-auto-meta)
+- [emdash-plugin-social-embed](https://github.com/marcusbellamyshaw-cell/emdash-plugin-social-embed) — Social media post embedding via oEmbed for 10 platforms (YouTube, Vimeo, X, Spotify, TikTok). [`npm`](https://www.npmjs.com/package/emdash-plugin-social-embed)
 
 ## Tools & IDE extensions
 
