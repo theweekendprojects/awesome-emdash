@@ -4,6 +4,8 @@
 
 EmDash has two extension surfaces (auth providers and native/standard plugins) and a growing community shipping things on top of both. This list collects what's out there so you don't have to rebuild it.
 
+**Note:** There are several community-maintained EmDash Awesome Lists. See [Other EmDash Awesome Lists](#other-emdash-awesome-lists) below for related collections.
+
 Contributions welcome — see [Contributing](#contributing). Adding your own plugin is one PR.
 
 ## Contents
@@ -193,7 +195,17 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [jdevalk/skills](https://github.com/jdevalk/skills) — Agent skills for EmDash plugin CI/CD, SEO, and content quality — includes emdash-github-actions for automated npm publishing, SEO audits, and readability checks. [`GitHub`](https://github.com/jdevalk/skills)
 - [EmDash Directory](https://emdash.directory) — Plugin directory and search.
 - [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
+- [bearBoy80/awesome-emdash](https://github.com/bearBoy80/awesome-emdash) — Bilingual (Chinese/English) curated list with extensive coverage of plugins, tools, templates, and live sites.
+- [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) — Plugin-focused curated list with many community plugins.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
+
+## Other EmDash Awesome Lists
+
+> Community-maintained Awesome Lists for EmDash. Each has its own focus and curation approach.
+
+- **bearBoy80/awesome-emdash** — Most comprehensive, bilingual (Chinese/English), includes plugins, templates, tools, tutorials, videos, and live sites. Focuses on completeness.
+- **aceitw/awesome-emdash** — Plugin-focused with detailed npm package listings and plugin categories. Good for discovering community plugins.
+- **theweekendprojects/awesome-emdash** — This repo. Focused on plugins with clear descriptions and categories. Maintained by The Weekend Projects.
 
 ## Live Sites Built on EmDash
 
