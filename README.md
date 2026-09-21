@@ -173,7 +173,9 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ## Themes & starters
 
-- [Masthead](https://github.com/ondelva/astro-theme-masthead) — Newspaper-style news theme for EmDash. Made for editorial teams: many authors, sections, and desks. Free (MIT) with a Pro edition adding podcast, membership, and forms. [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-masthead)
+- [Masthead](https://github.com/ondelva/astro-theme-masthead) — Newspaper-style news theme for EmDash. Made for editorial teams: many authors, sections, and desks. Free (MIT) with a Pro edition adding podcast, membership, and forms. [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-masthead), [Live Demo](https://masthead-free.ondelva.com)
+- [Pilcrow](https://github.com/ondelva/astro-theme-pilcrow) — Typography-first Astro blog theme. Free (MIT). [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-pilcrow), [Live Demo](https://pilcrow-free.ondelva.com)
+- [Gazette](https://github.com/ondelva/astro-theme-gazette) — Issue-based magazine theme for Astro. Free (MIT). [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-gazette), [Live Demo](https://gazette-free.ondelva.com)
 - [Astroplate (emdash branch)](https://github.com/zeon-studio/astroplate/tree/emdash) — Astro + TailwindCSS + TypeScript starter template powered by EmDash, by Zeon Studio.
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) — Classic admin theme for EmDash CMS.
 - [relink](https://github.com/giffeler/relink) — URL shortener and link management for EmDash CMS.
