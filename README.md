@@ -228,6 +228,31 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [Image Storage Explorer](https://marketplace.visualstudio.com/items?itemName=Azydeco.image-storage-explorer) — Browse Cloudflare R2, Emdash Media Library, AWS S3, Azure, Google Cloud, and local files directly in VS Code. Copy formatted HTML, Markdown, or framework-specific image tags with zero context switching.
 
+## Plugins on emdashcms.org
+
+> Plugins currently listed in the [emdashcms.org](https://emdashcms.org) registry. Every version is sandboxed, scanned, and AI-reviewed before publishing.
+
+- [Form Mailer](https://emdashcms.org/plugins/form-mailer) — Reliable contact and lead-form email delivery for EmDash with spam protection and provider-based sending. Audit: passed. [`emdashcms.org`](https://emdashcms.org/plugins/form-mailer)  
+  Publisher: coleprice • Downloads: 386
+
+- [SerpDelta](https://emdashcms.org/plugins/serpdelta) — See which pages are climbing or dropping in Google — right in your EmDash admin. [`emdashcms.org`](https://emdashcms.org/plugins/serpdelta)  
+  Publisher: ben-spp • Downloads: 340
+
+- [EmDash Rating](https://emdashcms.org/plugins/emdash-rating) — Add star ratings to your posts and pages. Let visitors rate content with a beautiful 1–5 star widget. [`emdashcms.org`](https://emdashcms.org/plugins/emdash-rating)  
+  Publisher: 99points • Downloads: 182
+
+- [fastcurve-audit-log](https://emdashcms.org/plugins/fastcurve-audit-log) — Admin audit trail with hashed login source fingerprints; reads users only to label actors. Audit: passed. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-audit-log)  
+  Publisher: ankit-fastcurveservices • Downloads: 163
+
+- [fastcurve-form-email](https://emdashcms.org/plugins/fastcurve-form-email) — Email notifications for contact form submissions via the site email pipeline. Audit: passed. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-form-email)  
+  Publisher: ankit-fastcurveservices • Downloads: 158
+
+- [fastcurve-visitor-tracker](https://emdashcms.org/plugins/fastcurve-visitor-tracker) — Privacy-minimal visitor and page-view stats using hashed visitor keys only. Trust tier: AI-reviewed. Audit: warning. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-visitor-tracker)  
+  Publisher: ankit-fastcurveservices • Downloads: 129
+
+- [emdash-plugin-bulk-upload](https://emdashcms.org/plugins/emdash-plugin-bulk-upload) — Bulk upload admin page plugin for EmDash CMS: a drag-and-drop queue that creates draft entries (with optional linked translations) for every uploaded file. Audit: passed. [`emdashcms.org`](https://emdashcms.org/plugins/emdash-plugin-bulk-upload)  
+  Publisher: afonsojramos • Downloads: 45
+
 ## Contributing
 
 Found a plugin that's missing, or shipped one yourself? [Open a pull request](https://github.com/theweekendprojects/awesome-emdash/pulls) — see [CONTRIBUTING.md](CONTRIBUTING.md) for the one-line format and where it goes. Corrections and de-duplications are just as welcome.
