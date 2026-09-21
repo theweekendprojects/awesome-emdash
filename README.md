@@ -181,10 +181,12 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ## Resources
 
+- [EmDash Bits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS. [`GitHub`](https://github.com/theweekendprojects/awesome-emdash)
+- [emdashcms.org](https://emdashcms.org) — Community marketplace for EmDash plugins and themes. Open, MIT-licensed, sandboxed and AI-reviewed before shipping. [`GitHub`](https://github.com/chrisjohnleah/emdashcms-org)
+- [EmDash CMS Dev](https://www.emdashcms.dev) — Practical EmDash CMS guide for evaluators and builders covering themes, plugins, hosting, and WordPress migration. [`GitHub`](https://github.com/chrisjohnleah/emdashcms-org)
+- [EmDash CMS Everything](https://emdashcmseverything.com) — Comprehensive EmDash CMS guide covering what's real today, what's early, and resources for evaluators, migrators, and builders.
 - [EmDash docs](https://docs.emdashcms.com) — Official documentation.
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
-- [EmDash CMS](https://emdashcms.org) — Official site with plugin directory and resources.
-- [EmDash Bits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
 - [EmDash Directory](https://emdash.directory) — Plugin directory and search.
 - [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
