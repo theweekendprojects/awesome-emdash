@@ -190,6 +190,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [EmDash CMS Everything](https://emdashcmseverything.com) — Comprehensive EmDash CMS guide covering what's real today, what's early, and resources for evaluators, migrators, and builders.
 - [EmDash docs](https://docs.emdashcms.com) — Official documentation.
 - [Building an EmDash plugin](https://docs.emdashcms.com) — See the docs' plugin guide for hooks, storage, admin UI, API routes, and Portable Text block types.
+- [jdevalk/skills](https://github.com/jdevalk/skills) — Agent skills for EmDash plugin CI/CD, SEO, and content quality — includes emdash-github-actions for automated npm publishing, SEO audits, and readability checks. [`GitHub`](https://github.com/jdevalk/skills)
 - [EmDash Directory](https://emdash.directory) — Plugin directory and search.
 - [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
