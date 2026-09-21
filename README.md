@@ -203,6 +203,9 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [star-lite-docs](https://star-lite.gruntmods.com) — Starlight-style documentation theme for EmDash (by @gruntlord5).
 - [EmdashBits](https://www.emdashbits.com) — Independent guide, plugin registry, and showcase for EmDash CMS.
 - [DashCommerce demo](https://dashcommerce.dev) — Full WooCommerce-equivalent commerce demo site built on EmDash.
+- [Cabu Labo](https://cabu-labo.co.jp) — Japanese site with ~60 pages migrated from WordPress. Built on EmDash with D1 + R2 on Cloudflare Workers.
+- [Tomoru AI](https://tomoru-ai.jp) — Company site built on EmDash.
+- [Q-Lu](https://q-lu.co) — Medical wig salon site in Matsumoto, Japan, migrated from WordPress. Built on EmDash with D1 + R2 on Cloudflare Workers.
 
 ## Plugins by Every Bit Texas
 
