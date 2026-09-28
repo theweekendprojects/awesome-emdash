@@ -195,6 +195,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [jdevalk/skills](https://github.com/jdevalk/skills) — Agent skills for EmDash plugin CI/CD, SEO, and content quality — includes emdash-github-actions for automated npm publishing, SEO audits, and readability checks. [`GitHub`](https://github.com/jdevalk/skills)
 - [EmDash Directory](https://emdash.directory) — Plugin directory and search.
 - [Plugins.EmDashCMS.com](https://plugins.emdashcms.com) — Official plugin registry.
+- [emdashcmseverything](https://emdashcmseverything.com/) — another plugin registry.
 - [bearBoy80/awesome-emdash](https://github.com/bearBoy80/awesome-emdash) — Bilingual (Chinese/English) curated list with extensive coverage of plugins, tools, templates, and live sites.
 - [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) — Plugin-focused curated list with many community plugins.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
