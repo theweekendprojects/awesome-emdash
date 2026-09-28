@@ -199,6 +199,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [bearBoy80/awesome-emdash](https://github.com/bearBoy80/awesome-emdash) — Bilingual (Chinese/English) curated list with extensive coverage of plugins, tools, templates, and live sites.
 - [aceitw/awesome-emdash](https://github.com/aceitw/awesome-emdash) — Plugin-focused curated list with many community plugins.
 - Find every published plugin on npm by the [`emdash-plugin` keyword](https://www.npmjs.com/search?q=keywords:emdash-plugin).
+- Another emdash site [aceitw/awesome-emdash](https://www.emdashcms.dev/)
 
 ## Other EmDash Awesome Lists
 
