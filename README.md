@@ -80,15 +80,19 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ### Analytics
 
+- [@eisbachcode.de/analytics](https://github.com/danielmlr/emdash-analytics) — Cloudflare Web Analytics widget + per-entry views + 4 MCP tools. [`npm`](https://www.npmjs.com/package/@eisbachcode/emdash-plugin-analytics)
 - [@plukio/emdash-analytics](https://www.npmjs.com/package/@plukio/emdash-analytics) — First-party analytics events routed to PostHog and GA4. [`npm`](https://www.npmjs.com/package/@plukio/emdash-analytics)
 - [em-analytics-hub](https://github.com/facuzarate04/em-analytics-hub) — Portable, privacy-first analytics hub (pageviews, UTM, custom events). [`npm`](https://www.npmjs.com/package/em-analytics-hub)
 - [em-content-insights](https://github.com/facuzarate04/em-content-insights) — Privacy-first per-post analytics (views, read rate, time on page, referrers). [`npm`](https://www.npmjs.com/package/em-content-insights)
+- [emdash-plugin-openanalytics](https://github.com/BlackSwampAI/emdash-plugin-openanalytics) — OpenAnalytics plugin. [`npm`](https://www.npmjs.com/package/emdash-plugin-openanalytics)
+- [emdash-umami-analytics](https://github.com/shane.bsky.shas.am/emdash-umami-analytics) — Umami Analytics plugin. [`npm`](https://www.npmjs.com/package/@shane.bsky.shas.am/emdash-umami-analytics)
 
 ### SEO & metadata
 
 - [aexeo-emdash](https://github.com/schiste/Aexeo/tree/main/packages/aexeo-emdash) — Aexeo SEO/GEO content evaluator (WASM, Cloudflare). [`npm`](https://www.npmjs.com/package/@aeptus/aexeo-emdash)
 - [emdash-taki](https://github.com/bnomei/emdash-taki) — Waterfall head renderer + dynamic head/metadata helpers (OpenGraph, JSON-LD, Turnstile). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-taki)
 - [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) — Comprehensive SEO via the `page:metadata` hook: meta tags, Open Graph, Twitter Cards, canonical URLs, JSON-LD schema graph, hreflang, breadcrumbs, llms.txt, IndexNow, and a fuzzy-redirects admin tool.
+- [emdash-seo-core](https://github.com/masonjames/emdash-seo-core) — SEO core utilities and helpers. [`npm`](https://www.npmjs.com/package/@masonjames/emdash-seo-core)
 - [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) — Lets AI agents assign taxonomy terms and set SEO metadata via `content:afterSave`. [`npm`](https://www.npmjs.com/package/emdash-auto-meta)
 - [emdash-plugin-seo-analyzer](https://www.emdashbits.com/plugins/emdash-plugin-seo-analyzer) — SEO analysis and optimization plugin for EmDash CMS — free Yoast alternative with AI-powered suggestions
 
@@ -208,6 +212,12 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - **bearBoy80/awesome-emdash** — Most comprehensive, bilingual (Chinese/English), includes plugins, templates, tools, tutorials, videos, and live sites. Focuses on completeness.
 - **aceitw/awesome-emdash** — Plugin-focused with detailed npm package listings and plugin categories. Good for discovering community plugins.
 - **theweekendprojects/awesome-emdash** — This repo. Focused on plugins with clear descriptions and categories. Maintained by The Weekend Projects.
+
+## Native (Trusted-Only) Plugins
+
+> Plugins that use EmDash's trusted-only hooks (like `page:fragments`) cannot be sandboxed and therefore don't go in the official registry. These require manual installation.
+
+- [emdash-tracking-scripts](https://github.com/ShaneMuir/emdash-tracking-scripts) — GTM/GA4/Lead Forensics injection via `page:fragments` hook. Native (trusted-only) plugin. [`npm`](https://www.npmjs.com/package/@shanemuir/emdash-tracking-scripts)
 
 ## Live Sites Built on EmDash
 
