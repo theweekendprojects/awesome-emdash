@@ -207,6 +207,50 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Lexington Themes](https://lexingtonthemes.com/templates/astro-emdash-templates) — 44 themes with Astro + EmDash variants.
 - [Bidview EmDash Sites](https://github.com/Bidviewllc/bidview-emdash-sites) — Monorepo for EmDash-powered sites: Robert Shearing Clinic, Audiologist Directory, Audiology and Hearing Centers, Campbell Hearing Solutions, Lakeside Lactation, MAICO Audio, Rose Hearing Healthcare Centers, Chicago Marketing Agency.
 - [emdash_property_web_builder](https://github.com/RealEstateWebTools/emdash_property_web_builder) — Real estate website with EmDash CMS and Property Web Builder backend, deployed on Cloudflare Workers.
+- [awebsomestuff/emdash-template-magazine](https://github.com/awebsomestuff/emdash-template-magazine) — Magazine / digital newspaper template / 杂志 / 数字报纸模板.
+- [awebsomestuff/emdash-template-event](https://github.com/awebsomestuff/emdash-template-event) — Event / conference template / 活动 / 会议模板.
+- [awebsomestuff/emdash-template-podcast](https://github.com/awebsomestuff/emdash-template-podcast) — Podcast template / 播客模板.
+- [awebsomestuff/emdash-template-shop](https://github.com/awebsomestuff/emdash-template-shop) — Shop / e-commerce template / 商店 / 电商模板.
+- [awebsomestuff/emdash-template-blog-pro](https://github.com/awebsomestuff/emdash-template-blog-pro) — Feature-rich blog template (Cloudflare Workers + D1 + R2).
+- [awebsomestuff/emdash-template-docs](https://github.com/awebsomestuff/emdash-template-docs) — Documentation template for products, APIs, and open-source projects.
+- [awebsomestuff/emdash-template-personal](https://github.com/awebsomestuff/emdash-template-personal) — Minimalist personal portfolio and CV template.
+- [awebsomestuff/emdash-template-portfolio](https://github.com/awebsomestuff/emdash-template-portfolio) — Minimal portfolio template for creative work (Cloudflare Workers).
+- [awebsomestuff/emdash-template-marketing](https://github.com/awebsomestuff/emdash-template-marketing) — Conversion-focused landing page template (Cloudflare Workers).
+- [awebsomestuff/emdash-template-restaurant](https://github.com/awebsomestuff/emdash-template-restaurant) — Restaurant / cafe template (La Maison) for EmDash CMS.
+- [emdash-alchemy-template](https://github.com/jcheese1/emdash-alchemy-template) — EmDash + Alchemy + Cloudflare Workers template.
+- [emdash-astro-template-1](https://github.com/Begin-Source/emdash-astro-template-1) — EmDash blog template for Cloudflare Workers + D1 + R2.
+- [emdash-blog-template](https://github.com/Haissir/emdash-blog-template) — Standalone EmDash blog CMS template for ShipKit.
+- [emdash-theme-minimal-blog](https://github.com/nozo-moto/emdash-theme-minimal-blog) — Minimal blog theme.
+- [emdash-theme-persona-bio](https://github.com/ahmetcigsar/emdash-theme-persona-bio) — Personal profile + blog theme for EmDash + Astro.
+- [emdash-themes (saviour123)](https://github.com/saviour123/emdash-themes) — EmDash portfolio template for Cloudflare Workers.
+- [emdash-theme-sylee-newsletter](https://github.com/siygle/emdash-theme-sylee-newsletter) — Newsletter theme inspired by sylee.dev ([preview](https://sylee.dev/newsletter/)).
+- [emdash-site-blog-starter](https://github.com/WellDunDun/emdash-site-blog-starter) — AI-ready marketing + blog starter (D1/R2, search, RSS, modular blocks).
+- [emdash-templates-aio](https://github.com/taicv/emdash-templates-aio) — All-in-one CMS template: admin, marketing pages, blocks, and blog.
+- [emdash-templates-aio-cloudflare](https://github.com/taicv/emdash-templates-aio-cloudflare) — All-in-one EmDash template preconfigured for Cloudflare deploy.
+- [emdash-starter (traone)](https://github.com/traone/emdash-starter) — General-purpose Cloudflare Workers starter (posts, pages, tags; tinywind base).
+- [astro-emdash-sqlite-r2-starter](https://github.com/milzamsz/astro-emdash-sqlite-r2-starter) — Self-hostable marketing + blog + docs (SQLite + R2), typed pages, FTS, SEO.
+- [astro-emdash-libsql-r2-starter](https://github.com/milzamsz/astro-emdash-libsql-r2-starter) — Astro + EmDash starter for Dokploy with native libSQL + Cloudflare R2.
+- [cloudflare-free-emdash-starter](https://github.com/saviour123/cloudflare-free-emdash-starter) — Minimal EmDash blog on Cloudflare Workers + D1 + R2.
+- [kultusblend blog](https://github.com/kultusblend/emdash-template-blog) — Blog starter for Cloudflare Workers.
+- [kultusblend marketing](https://github.com/kultusblend/emdash-template-marketing) — Marketing starter for Cloudflare Workers.
+- [kultusblend portfolio](https://github.com/kultusblend/emdash-template-portfolio) — Portfolio starter for Cloudflare Workers.
+- [mise](https://github.com/mo3moha/mise) — Reservation / booking template: Astro 6 + Workers + D1, i18n, email flow.
+- [Reef](https://github.com/alohapixelcom-hash/reef) — Bilingual EN/FR Astro blog theme with EmDash back office.
+- [crafted](https://github.com/adpena/crafted) — Portfolio and campaign action-page engine on EmDash + Cloudflare.
+- [minastro](https://github.com/frankievalentine/minastro) — EmDash-first personal-site template (Astro + Cloudflare Workers) ([demo](https://minastro.pages.dev)).
+- [Biolink](https://github.com/bitdoze/emdash-biolink-theme) — Link-in-bio theme: profile, socials, reorderable blocks, per-page theming (Workers + D1/R2).
+- [DashingCommerce-template](https://github.com/vidarbrekke/DashingCommerce-template) — Astro + EmDash storefront starter for DashingCommerce (Node + Cloudflare).
+- [emdash-mika-template](https://github.com/bnomei/emdash-mika-template) — Astro + EmDash storefront starter for Mika (cart, wishlist, checkout fixtures).
+- [emdash-theme-mainstreet](https://github.com/ecropolis/emdash-theme-mainstreet) — Service-business theme: pricing, team, hours, booking CTAs ([demo](https://mainstreet.superherotech.ai)).
+- [emdash-theme-supper](https://github.com/ecropolis/emdash-theme-supper) — Restaurant theme: structured menu, hours, gallery, reservations ([demo](https://supper.superherotech.ai)).
+- [TerraSuite](https://github.com/havenswift-hosting/terrasuite-emdash) — Estate-agency template: property collection, filtered search, area pages ([demo](https://emdash.terrasuite.uk/)).
+- [template-marketing](https://github.com/dinkuskit/template-marketing) — Marketing-site starter.
+- [template-services](https://github.com/dinkuskit/template-services) — Services-business starter.
+- [template-store](https://github.com/dinkuskit/template-store) — Store starter with blocks + AI Commerce.
+- [tcg-emdash-starter](https://github.com/KURTEcl/tcg-emdash-starter) — Starter for TCG players: decklists and tournament reports.
+- [app-emdash (Quant Cloud)](https://github.com/quantcdn-templates/app-emdash) — EmDash CMS template for Quant Cloud.
+- [PhimDash](https://github.com/xxmisaoxx/PhimDash) — Online movie-watching theme (KKPhim API, HLS player, Workers-ready).
+- [emdash-bootstrap-theme](https://github.com/gabrielepiccinnu/emdash-bootstrap-theme) — Bootstrap 5 theme for EmDash.
 
 ## Resources
 
