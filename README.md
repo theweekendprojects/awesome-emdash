@@ -148,7 +148,12 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdash-ai-search](https://github.com/theweekendprojects/emdash-ai-search) — AI search + chat for EmDash CMS powered by Cloudflare AI Search — grounded chat answers with citations,Cmd/Ctrl+K search, seconds-to-index. [`npm`](https://www.npmjs.com/package/emdash-ai-search)
 - [InjectAI](https://github.com/muzammildafedar/emdash-injectai) — AI chatbot powered by your own content — RAG chat, file uploads, quiz/module generation. [`npm`](https://www.npmjs.com/package/@injectailabs/emdash-injectai)
 - [emdash-akari](https://github.com/bnomei/emdash-akari) — Agent-focused discovery CLI — resolve content targets and query nested JSON beyond MCP search. [`npm`](https://www.npmjs.com/package/@bnomei/emdash-akari)
+- [emdash-inbox](https://github.com/proverbiallemon/emdash-inbox) — Inbox-by-Google-style mailbox UI for EmDash CMS, with Cloudflare Email Service transport built in. [`npm`](https://www.npmjs.com/package/emdash-inbox)
+- [emdash-tracking-scripts](https://github.com/ShaneMuir/emdash-tracking-scripts) — GTM/GA4/Lead Forensics injection via `page:fragments` hook. Native (trusted-only) plugin. [`npm`](https://www.npmjs.com/package/@shanemuir/emdash-tracking-scripts)
+- [emdash-plugin-slack](https://www.npmjs.com/package/emdash-plugin-slack) — Slack notifications when content is published. [`npm`](https://www.npmjs.com/package/emdash-plugin-slack)
 - [emdash-claude-plugin](https://www.emdashbits.com/plugins/emdash-claude-plugin) — Claude Code plugin for EmDash CMS — skills and investigation agents for building Astro + Cloudflare sites
+- [freeform](https://emdashcms.org/plugins/freeform) — Forms plugin with drag-and-drop builder, submissions store, and email notifications. [`emdashcms.org`](https://emdashcms.org/plugins/freeform)
+- [emdash-plugin-bulk-upload](https://emdashcms.org/plugins/emdash-plugin-bulk-upload) — Bulk upload admin page: drag-and-drop queue creates draft entries. [`emdashcms.org`](https://emdashcms.org/plugins/emdash-plugin-bulk-upload)
 
 ### Domain-specific
 
@@ -159,6 +164,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [star-lite-docs](https://github.com/gruntlord5/star-lite-docs) — Starlight-style documentation theme (Astro integration + plugin in one). [`npm`](https://www.npmjs.com/package/star-lite-docs)
 - [emdashlearn](https://www.emdashbits.com/plugins/emdashlearn) — Open source LMS plugin for emdash CMS — courses, progress, and learning on the edge
 - [emdash-lms](https://www.emdashbits.com/plugins/emdash-lms) — EmDash LMS — Subscriptions & Memberships plugin for EmDash CMS
+- [emdash-classic-theme](https://github.com/marks-zyz/emdash-classic-theme) — Admin theme that makes EmDash panel resemble WordPress admin appearance. [`npm`](https://www.npmjs.com/package/emdash-classic-theme)
 
 ### Utility & ops
 
@@ -169,6 +175,9 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [emdashlearn](https://github.com/emdash-learn/emdashlearn) — Open source LMS plugin for EmDash — courses, progress, and learning on the edge. [`npm`](https://www.npmjs.com/package/emdashlearn)
 - [emdash-lms](https://github.com/tohaitrieu/emdash-lms) — Learning Management System — courses, memberships, quizzes, certificates with Stripe and Sepay payments. [`npm`](https://www.npmjs.com/package/emdash-lms)
 - [emdash-forms-builder](https://github.com/hassantafreshi/emdash-forms-builder) — Full-featured form builder with drag-and-drop, multi-step forms, submissions, and support portal. [`npm`](https://www.npmjs.com/package/@emdash-cms/plugin-forms-builder)
+- [fastcurve-audit-log](https://emdashcms.org/plugins/fastcurve-audit-log) — Admin audit trail with hashed login source fingerprints. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-audit-log)
+- [fastcurve-form-email](https://emdashcms.org/plugins/fastcurve-form-email) — Email notifications for contact form submissions. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-form-email)
+- [fastcurve-visitor-tracker](https://emdashcms.org/plugins/fastcurve-visitor-tracker) — Privacy-minimal visitor and page-view stats using hashed visitor keys. [`emdashcms.org`](https://emdashcms.org/plugins/fastcurve-visitor-tracker)
 - [wp-emdash](https://www.emdashbits.com/plugins/wp-emdash) — Plugins to help you transition from WordPress to EmDash. [`npm`](https://www.npmjs.com/package/@emdash-cms/wp-emdash)
 - [@plugdash/autobuild](https://github.com/plugdash/plugdash) — Fires a Cloudflare Pages / Netlify / Vercel build hook on every publish. [`npm`](https://www.npmjs.com/package/@plugdash/autobuild)
 - [@plugdash/shortlink](https://github.com/plugdash/plugdash) — Short URLs created on publish. [`npm`](https://www.npmjs.com/package/@plugdash/shortlink)
@@ -179,12 +188,23 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 ## Themes & starters
 
+> Community-built unless noted. Not an endorsement — check each theme's license and maintenance status before using.
+
+### Official
+
+- [EmDash Templates](https://github.com/emdash-cms/templates) — Official starter templates for EmDash. Includes Blog, Marketing, Portfolio, Starter, and Blank variants for both Node.js and Cloudflare Workers. [`npm`](https://www.npmjs.com/package/emdash)
+
+### Community Themes
+
 - [Masthead](https://github.com/ondelva/astro-theme-masthead) — Newspaper-style news theme for EmDash. Made for editorial teams: many authors, sections, and desks. Free (MIT) with a Pro edition adding podcast, membership, and forms. [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-masthead), [Live Demo](https://masthead-free.ondelva.com)
 - [Pilcrow](https://github.com/ondelva/astro-theme-pilcrow) — Typography-first Astro blog theme. Free (MIT). [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-pilcrow), [Live Demo](https://pilcrow-free.ondelva.com)
 - [Gazette](https://github.com/ondelva/astro-theme-gazette) — Issue-based magazine theme for Astro. Free (MIT). [`npm`](https://www.npmjs.com/package/@ondelva/astro-theme-gazette), [Live Demo](https://gazette-free.ondelva.com)
 - [Astroplate (emdash branch)](https://github.com/zeon-studio/astroplate/tree/emdash) — Astro + TailwindCSS + TypeScript starter template powered by EmDash, by Zeon Studio.
+- [emdash_classic_theme](https://github.com/marks-zyz/emdash-classic-theme) — Admin theme that makes EmDash panel resemble WordPress admin appearance.
 - [emdash-admin-theme-classic](https://github.com/marks-zyz/emdash-admin-theme-classic) — Classic admin theme for EmDash CMS.
 - [relink](https://github.com/giffeler/relink) — URL shortener and link management for EmDash CMS.
+- [Bravada](https://github.com/vhscom/emdash-theme-bravada) — WordPress Bravada theme port with landing bands as `/section` blocks, shop and portfolio included (GPL).
+- [Lexington Themes](https://lexingtonthemes.com/templates/astro-emdash-templates) — 44 themes with Astro + EmDash variants.
 - [Bidview EmDash Sites](https://github.com/Bidviewllc/bidview-emdash-sites) — Monorepo for EmDash-powered sites: Robert Shearing Clinic, Audiologist Directory, Audiology and Hearing Centers, Campbell Hearing Solutions, Lakeside Lactation, MAICO Audio, Rose Hearing Healthcare Centers, Chicago Marketing Agency.
 - [emdash_property_web_builder](https://github.com/RealEstateWebTools/emdash_property_web_builder) — Real estate website with EmDash CMS and Property Web Builder backend, deployed on Cloudflare Workers.
 
@@ -236,6 +256,15 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 - [Cabu Labo](https://cabu-labo.co.jp) — Japanese site with ~60 pages migrated from WordPress. Built on EmDash with D1 + R2 on Cloudflare Workers.
 - [Tomoru AI](https://tomoru-ai.jp) — Company site built on EmDash.
 - [Q-Lu](https://q-lu.co) — Medical wig salon site in Matsumoto, Japan, migrated from WordPress. Built on EmDash with D1 + R2 on Cloudflare Workers.
+- [Freedom Times News](https://freedomtimes.news/) — Agent-managed content (Markdown to Portable Text via MCP), video editing via subtitles + R2 upload, isolated staging/production.
+- [GPT.gekko.de](https://gpt.gekko.de/) — WordPress blog migrated to EmDash with Codex update management.
+- [Space.gekko.de](https://space.gekko.de/) — WordPress blog migrated to EmDash with Codex update management.
+- [Chicagoganghistory.com](https://chicagoganghistory.com/) — 400-page WordPress site (40-80K visitors/month) migrated in 2 days using Claude Fable.
+- [Vividx.tech](https://vividx.tech/) — WordPress site migration — "Best decision ever."
+- [Studiobraad.nl](https://studiobraad.nl/) — Agency website migrated from WordPress.
+- [Vsol-adf3c7.workers.dev](https://asseo-emdash.vsol-adf3c7.workers.dev/) — WordPress site conversion to EmDash.
+- [NewtonFamilysingers.org](https://www.newtonfamilysingers.org/) — Weebly to EmDash migration with member directory, Stripe ticketing, and custom Astro pages.
+- [Seglive.se](https://seglive.se/) — Swedish booking/artist site with artists self-editing profiles, manager multi-profile access, booking/pitch forms.
 
 ## Plugins by Every Bit Texas
 
