@@ -91,6 +91,7 @@ The busiest category — each implements EmDash's `email:deliver` / `email:provi
 
 - [aexeo-emdash](https://github.com/schiste/Aexeo/tree/main/packages/aexeo-emdash) — Aexeo SEO/GEO content evaluator (WASM, Cloudflare). [`npm`](https://www.npmjs.com/package/@aeptus/aexeo-emdash)
 - [emdash-taki](https://github.com/bnomei/emdash-taki) — Waterfall head renderer + dynamic head/metadata helpers (OpenGraph, JSON-LD, Turnstile). [`npm`](https://www.npmjs.com/package/@bnomei/emdash-taki)
+- [emdash-plugin-indexnow](https://github.com/tagperfect/emdash-plugin-indexnow) — Sends URLs to IndexNow on publish, update, unpublish and delete, with per-locale URL rules, a submission log and a dashboard widget. [`npm`](https://www.npmjs.com/package/@tagperfect/emdash-plugin-indexnow)
 - [emdash-plugin-seo](https://github.com/jdevalk/emdash-plugin-seo) — Comprehensive SEO via the `page:metadata` hook: meta tags, Open Graph, Twitter Cards, canonical URLs, JSON-LD schema graph, hreflang, breadcrumbs, llms.txt, IndexNow, and a fuzzy-redirects admin tool.
 - [emdash-seo-core](https://github.com/masonjames/emdash-seo-core) — SEO core utilities and helpers. [`npm`](https://www.npmjs.com/package/@masonjames/emdash-seo-core)
 - [emdash-auto-meta](https://github.com/marcusbellamyshaw-cell/emdash-auto-meta) — Lets AI agents assign taxonomy terms and set SEO metadata via `content:afterSave`. [`npm`](https://www.npmjs.com/package/emdash-auto-meta)
